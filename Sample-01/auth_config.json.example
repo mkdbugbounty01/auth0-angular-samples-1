@@ -1,10 +1,10 @@
 {
-  "domain": "{DOMAIN}",
-  "clientId": "{CLIENT_ID}",
+  "domain": "bugcrowd-2893.cic-bug-bounty.auth0app.com",
+  "clientId": "uhsxHDWs1vqU6j0vWPmAlbbVJHkCrMLZ",
   "authorizationParams": {
     "audience": "{API_IDENTIFIER}"
   },
-  "apiUri": "http://localhost:3001",
-  "appUri": "http://localhost:4200",
+  "apiUri": "http://127.0.0.1:3000",
+  "appUri": "http://127.0.0.1:3001",
   "errorPath": "/error"
 }
